@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @JNikonenko
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning pyrhon
 - 📫 How to reach me by julia50505@gmail.com
 
 <!---
